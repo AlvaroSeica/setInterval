@@ -6,7 +6,7 @@ This file is a tentative approach to create a list of timers used in scripting d
 
 I invite artists, poets, programmers, critics, and a blend of one of this or more, to modify it, improve it, collaborate.
 
-## TIMERS
+## Timers
 
 ### BASIC
 
@@ -89,7 +89,7 @@ J.R. Carpenter's JavaScript library word.generator.js in, among others, <em>...a
 ### PHP
 
 
-## MOTION
+## Motion
 
 * Commit often.
 * Commit should always contain working code. Do not commit and push half baked code. That might break test and beta.elmcip.net installation and will get reverted from the repository.
