@@ -50,8 +50,8 @@ clearing methods
 Works
 
 * Stephanie Strickland and Cynthia Lawson Jaramillo’s <em>slippingglimpse</em> (2007)
-* @ihatch's <em>⌰ [Total Runout]</em> (2015)
-* @nickmontfort’s <em>Una Página de Babel</em> (2015)
+* @ihatch <em>⌰ [Total Runout]</em> (2015)
+* @nickmontfort <em>Una Página de Babel</em> (2015)
 * Jörg Piringer’s PHP and JavaScript moveLetterSoup(), animSoup(), lettersoupanim.php (2011)
 * J.R. Carpenter's JavaScript library word.generator.js in, among others, <em>...and by islands I mean paragraphs</em> abd <em>Notes Very Necessary</em> (2015)
 
