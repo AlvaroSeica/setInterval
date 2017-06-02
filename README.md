@@ -57,7 +57,7 @@ Works
 * [@ihatch](https://github.com/ihatch)'s <em>⌰ [Total Runout]</em> (2015)
 * [@nickmontfort](https://github.com/nickmontfort)'s <em>Una Página de Babel</em> (2015)
 * Jörg Piringer’s PHP and JavaScript moveLetterSoup(), animSoup(), lettersoupanim.php (2011)
-* J.R. Carpenter's JavaScript library word.generator.js in, among others, <em>...and by islands I mean paragraphs</em> abd <em>Notes Very Necessary</em> (2015)
+* J.R. Carpenter's JavaScript library word.generator.js in, among others, <em>...and by islands I mean paragraphs</em> and <em>Notes Very Necessary</em> (2015)
 * [@jhave](https://github.com/jhave)'s TSNE-animator D3.js <em>Sondheim on BDP: Big-Data-Poetry</em> (2016)
 
 Examples
@@ -98,7 +98,8 @@ Examples
     
     var circle = d3.select(this);
     circle.transition().duration(100)
-    (Jhave 2016: lines 134-35)
+    (Jhave 2016: lines 134-35)
+    
     
 ### <a href="https://elmcip.net/platformsoftware/java" target="_blank">Java</a> / <a href="https://elmcip.net/platformsoftware/processing" target="_blank">Processing</a>
 
@@ -149,7 +150,7 @@ Create Works and Examples
 * text in movement/kinetic poetry 
 * typographic animation.
 
-### Saemmmer's typology (2010)
+### Saemmer's typology (2010)
 * 
 
 ### Animation
@@ -238,7 +239,7 @@ Classes
 * `slideOutUp`
 
 
-#### JavaScript and jQuery
+#### CSS, JavaScript and jQuery Animation Libraries
 
 ##### [Velocity.js](https://github.com/julianshapiro/velocity)
 
@@ -247,6 +248,20 @@ Classes
 ##### [jquery.transition.js](https://github.com/louisremi/jquery.transition.js)
 
 ##### [D3](https://github.com/d3/d3)
+
+##### [Bounce.js]https://github.com/tictail/bounce.js
+
+##### [Anime.js]https://github.com/juliangarnier/anime
+
+##### [Magic]https://github.com/miniMAC/magic
+
+##### [DynCSS]https://github.com/vzaccaria/DynCSS
+
+##### [CSShake]https://github.com/elrumordelaluz/csshake
+
+##### [Ani.js]https://github.com/anijs/anijs
+
+
 
 
 +++++++More+++++
