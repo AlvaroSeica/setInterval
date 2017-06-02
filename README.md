@@ -249,17 +249,17 @@ Classes
 
 ##### [D3](https://github.com/d3/d3)
 
-##### [Bounce.js]https://github.com/tictail/bounce.js
+##### [Bounce.js](https://github.com/tictail/bounce.js)
 
-##### [Anime.js]https://github.com/juliangarnier/anime
+##### [Anime.js](https://github.com/juliangarnier/anime)
 
-##### [Magic]https://github.com/miniMAC/magic
+##### [Magic](https://github.com/miniMAC/magic)
 
-##### [DynCSS]https://github.com/vzaccaria/DynCSS
+##### [DynCSS](https://github.com/vzaccaria/DynCSS)
 
-##### [CSShake]https://github.com/elrumordelaluz/csshake
+##### [CSShake](https://github.com/elrumordelaluz/csshake)
 
-##### [Ani.js]https://github.com/anijs/anijs
+##### [Ani.js](https://github.com/anijs/anijs)
 
 
 
