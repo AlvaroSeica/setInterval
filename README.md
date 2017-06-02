@@ -1,6 +1,6 @@
 # setInterval()
 
-Kinetic poetry: a list of timers and motion properties
+Kinetic Poetry: A List of Timers and Motion Properties
 
 This file is a tentative approach to create a list of timer snippets used in scripting digital kinetic poetry works, as well as motion typologies. Will motion typologies be defined by critical discourse, programming languages, and/or animation libraries with their classes and functions?
 
@@ -47,13 +47,18 @@ clearing methods
     clearTimeout() 
     clearInterval()
     
+duration methods
+
+    transition().duration(milliseconds)
+    
 Works
 
 * Stephanie Strickland and Cynthia Lawson Jaramillo’s <em>slippingglimpse</em> (2007)
-* @ihatch <em>⌰ [Total Runout]</em> (2015)
-* @nickmontfort <em>Una Página de Babel</em> (2015)
+* [@ihatch](https://github.com/ihatch)'s <em>⌰ [Total Runout]</em> (2015)
+* [@nickmontfort](https://github.com/nickmontfort)'s <em>Una Página de Babel</em> (2015)
 * Jörg Piringer’s PHP and JavaScript moveLetterSoup(), animSoup(), lettersoupanim.php (2011)
 * J.R. Carpenter's JavaScript library word.generator.js in, among others, <em>...and by islands I mean paragraphs</em> abd <em>Notes Very Necessary</em> (2015)
+* [@jhave](https://github.com/jhave)'s TSNE-animator D3.js <em>Sondheim on BDP: Big-Data-Poetry</em> (2016)
 
 Examples
 
@@ -90,7 +95,11 @@ Examples
 
     isle1.play(23000); 
     (Carpenter 2013: line 23)
-  
+    
+    var circle = d3.select(this);
+    circle.transition().duration(100)
+    (Jhave 2016: lines 134-35)
+    
 ### <a href="https://elmcip.net/platformsoftware/java" target="_blank">Java</a> / <a href="https://elmcip.net/platformsoftware/processing" target="_blank">Processing</a>
 
 Create Works and Examples
@@ -236,6 +245,8 @@ Classes
 ##### [jquery.transit.js](https://github.com/rstacruz/jquery.transit)
 
 ##### [jquery.transition.js](https://github.com/louisremi/jquery.transition.js)
+
+##### [D3](https://github.com/d3/d3)
 
 
 +++++++More+++++
