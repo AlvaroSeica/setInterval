@@ -1,15 +1,15 @@
 # setInterval()
 
-Kinetic Poetry: A List of Timers and Motion Properties
+<b>Kinetic Poetry: A List of Timers and Motion Properties</b>
 
-This file is a tentative approach to create a list of timer snippets used in scripting digital kinetic poetry works, as well as motion typologies. Will motion typologies be defined by critical discourse, programming languages, and/or animation libraries with their classes and functions?
+This file is a tentative approach to create a list of timer snippets used in scripting digital kinetic poetry works, as well as motion typologies. Do you think motion typologies should be defined by theorizers (critical discourse), practitioners, coders, programming languages and/or animation libraries with their classes and functions, or by some or everyone out there?
 
-I invite artists, poets, programmers, critics, and a blend of one of this or more, to modify it, improve it, collaborate.
+I invite artists, poets, programmers, critics, and a blend of one of this or another, to modify it, improve it, collaborate.
 
 
 ## Timers>Platforms
 
-### <a href="https://elmcip.net/platformsoftware/basic" target="_blank">BASIC</a>
+### [BASIC](https://elmcip.net/platformsoftware/basic)
 
 PAUSE statement
 
@@ -35,7 +35,7 @@ Examples
     46  SPEED= 170
     (bpNichol 1984)
     
-### <a href="https://elmcip.net/platformsoftware/actionscript" target="_blank">ActionScript</a> and <a href="https://elmcip.net/platformsoftware/javascript" target="_blank">JavaScript</a>
+### [ActionScript](https://elmcip.net/platformsoftware/actionscript) and [JavaScript](https://elmcip.net/platformsoftware/javascript)
 
 setTimeout() and setInterval() methods
 
@@ -101,11 +101,11 @@ Examples
     (Jhave 2016: lines 134-35)
     
     
-### <a href="https://elmcip.net/platformsoftware/java" target="_blank">Java</a> / <a href="https://elmcip.net/platformsoftware/processing" target="_blank">Processing</a>
+### [Java](https://elmcip.net/platformsoftware/java)/[Processing](https://elmcip.net/platformsoftware/processing)/[Arduino](https://elmcip.net/platformsoftware/arduino)
 
 Create Works and Examples
 
-### <a href="https://elmcip.net/platformsoftware/jquery" target="_blank">jQuery</a>
+### [jQuery](https://elmcip.net/platformsoftware/jquery)
 
 jQuery $.animate() Method
 
@@ -113,23 +113,23 @@ Works
 
 Examples
 
-### <a href="https://elmcip.net/platformsoftware/php" target="_blank">PHP</a>
+### [PHP](https://elmcip.net/platformsoftware/php)
 
 Create Works and Examples
 
-### <a href="https://elmcip.net/platformsoftware/python" target="_blank">Python</a>
+### [Python](https://elmcip.net/platformsoftware/python) 
 
 Create Works and Examples
 
-### <a href="https://elmcip.net/platformsoftware/ruby" target="_blank">Ruby</a>
+### [Ruby](https://elmcip.net/platformsoftware/ruby)
 
 Create Works and Examples
 
-### <a href="https://elmcip.net/platformsoftware/perl" target="_blank">Perl</a>
+### [Perl](https://elmcip.net/platformsoftware/perl)
 
 Create Works and Examples
 
-### <a href="https://elmcip.net/platformsoftware/c" target="_blank">C++</a>
+### [C++](https://elmcip.net/platformsoftware/c)
 
 Create Works and Examples
 
@@ -151,6 +151,11 @@ Create Works and Examples
 * typographic animation.
 
 ### Saemmer's typology (2010)
+* 
+* 
+
+### Piringer’s typology (Book iPad app)
+* falling
 * 
 
 ### Animation
@@ -260,8 +265,6 @@ Classes
 ##### [CSShake](https://github.com/elrumordelaluz/csshake)
 
 ##### [Ani.js](https://github.com/anijs/anijs)
-
-
 
 
 +++++++More+++++
